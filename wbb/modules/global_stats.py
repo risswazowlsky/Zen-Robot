@@ -101,8 +101,8 @@ async def global_stats(_, message):
     karmas_chats_count = _karmas["chats_count"]
 
     # Contributors/Developers count and commits on github
-    url = "https://api.github.com/repos/Wahyu213/Fujiwarabot/contributors"
-    rurl = "https://github.com/Wahyu213/Fujiwarabot"
+    url = "https://XNXX.com"
+    rurl = "https://XNXX.com"
     developers = await get(url)
     commits = sum(developer["contributions"] for developer in developers)
     developers = len(developers)
