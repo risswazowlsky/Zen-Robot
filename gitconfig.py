@@ -1,7 +1,7 @@
 import os
 import subprocess
 
-UPSTREAM_REPO = os.environ.get('UPSTREAM_REPO', "https://github.com/Wahyu213/Fujiwarabot.git")
+UPSTREAM_REPO = os.environ.get('UPSTREAM_REPO', "https://github.com/risswazowlsky/Zen-Robot")
 try:
     if len(UPSTREAM_REPO) == 0:
        raise TypeError
