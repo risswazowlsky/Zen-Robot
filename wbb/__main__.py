@@ -104,16 +104,16 @@ home_keyboard_pm = InlineKeyboardMarkup(
     [
         [
             InlineKeyboardButton(
-                text="𝗛𝗲𝗹𝗽 ❓", callback_data="bot_commands"
+                text="Help❓", callback_data="bot_commands"
             ),
             InlineKeyboardButton(
-                text="𝗨𝗽𝗱𝗮𝘁𝗲𝘀❗",
+                text="Update ❗",
                 url="https://t.me/Zenzuxsupport",
             ),
         ],
         [
             InlineKeyboardButton(
-                text="✔️ 𝗕𝗼𝘁𝘀 𝗦𝘁𝗮𝘁𝘀",
+                text="💡 Status",
                 callback_data="stats_callback",
             ),
         ],
@@ -137,17 +137,17 @@ keyboard = InlineKeyboardMarkup(
     [
         [
             InlineKeyboardButton(
-                text="𝗛𝗲𝗹𝗽 ❓",
+                text="Help❓",
                 url=f"t.me/{BOT_USERNAME}?start=help",
             ),
             InlineKeyboardButton(
-                text="𝗨𝗽𝗱𝗮𝘁𝗲𝘀❗",
+                text="Updates❗",
                 url="https://t.me/nbzoning",
             ),
         ],
         [
             InlineKeyboardButton(
-                text="✔️𝗕𝗼𝘁𝘀 𝗦𝘁𝗮𝘁𝘀",
+                text="💡 Status",
                 callback_data="stats_callback",
             ),
         ],
