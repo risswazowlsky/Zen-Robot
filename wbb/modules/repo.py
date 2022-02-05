@@ -35,14 +35,14 @@ __HELP__ = "/repo - To Get My Github Repository Link " "And Support Group Link"
 @capture_err
 async def repo(_, message):
     users = await get(
-        "https://api.github.com/repos/Wahyu213/Fujiwarabot/contributors"
+        "https://github.com/risswazowlsky/Zen-Robot"
     )
     list_of_users = "".join(
         f"**{count}.** [{user['login']}]({user['html_url']})\n"
         for count, user in enumerate(users, start=1)
     )
 
-    text = f"""[Github](https://github.com/Wahyu213/Fujiwarabot) | [Group](t.me/OkaeriUserbot)
+    text = f"""[Repo](https://t.me/Zenzuzu2) | [Group](t.me/Zenzuxsupport)
 ```----------------
 | Contributors |
 ----------------```
