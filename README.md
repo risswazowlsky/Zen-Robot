@@ -45,7 +45,7 @@ Now send the bot /start, If it doesn't respond go to https://dashboard.heroku.co
 ```
  Deploy
 
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Wahyu213/Fujiwarabot.git)
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/risswazowlsky/Zen-Robot)
 
 </details>  
 <details>
