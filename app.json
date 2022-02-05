@@ -1,7 +1,7 @@
 {
-    "name": "Chika",
+    "name": "Zen Manage Groups",
     "description": "Telegram Group Management Bot Written In Python Using Pyrogram.",
-    "repository": "https://github.com/Wahyu213/Fujiwarabot",
+    "repository": "https://github.com/risswazowlsky/Zen-Robot",
     "logo": "https://telegra.ph/file/9b9967d5fa36cbafa26f3.jpg",
     "keywords": [
     "python3",
